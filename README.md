@@ -4,7 +4,9 @@ Telomere counting from NGS data
 ## Explanation of the output file
 
 
-- SAMPLE	name of the sample													- TARGET	path to the bed file												- CMD		full command-line executed
+- SAMPLE	name of the sample
+- TARGET	path to the bed file
+- CMD		full command-line executed
 
 These are the headers for data based on individual RG-tags, one line per RG-tag								
 - RG		rg-tag as in the bam file
